@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "dev-event-calendar",
-			"url": "https://github.com/SaFisch/Calendar-Public/main/event_calendar/main.js",
+			"url": "https://github.com/SaFisch/Calendar-Public/main.js", 
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
