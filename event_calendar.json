@@ -1,5 +1,5 @@
 {
-	"id": "com.safisch.eventcalendar",
+	"id": "com.safisch.calendar-public",
 	"version": "1.6.4",
 	"name": "Event Calendar",
 	"description": "Monthly calendar with event display support.",
@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "dev-event-calendar",
-			"url": "https://github.com/SaFisch/Calendar/main/event_calendar/main.js",
+			"url": "https://github.com/SaFisch/Calendar-Public/main/event_calendar/main.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
